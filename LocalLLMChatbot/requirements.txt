@@ -1,0 +1,5 @@
+# Local LLM Chatbot - Python Dependencies
+# Lightweight, open-source stack with no cloud dependencies
+
+Flask>=3.0.0,<4.0.0
+requests>=2.31.0,<3.0.0
